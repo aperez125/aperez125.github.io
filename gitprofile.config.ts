@@ -80,44 +80,44 @@ const CONFIG = {
       'https://aperez125.github.io/pdf/aperezCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PCR', 'Bioinformatics', 'Teaching'
+    'Hands-on skills in Microbiology', 'Bioinformatics', '59 WPM', 'Biliterate'
   ],
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Assistant Professor',
-      from: 'August 2022',
+      position: 'Student Peer Mentor',
+      from: 'August 2023',
       to: 'Present',
       companyLink: 'https://www.csustan.edu',
     },
     {
-      company: 'CSU Fresno',
-      position: 'Assistant/Associate Professor',
-      from: 'August 2015',
-      to: 'August 2022',
-      companyLink: 'https://www.fresnostate.edu',
+      company: 'Amazon',
+      position: 'Associate',
+      from: 'March 2021',
+      to: 'Present',
+      companyLink: 'https://www.amazon.com',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Dean's List',
+      body: '3.5 GPA or higher',
+      year: 'Fall 2019-Spring 2024',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'CSU Fresno',
-      degree: 'MBA',
-      from: '2020',
+      institution: 'CSU Stanislaus',
+      degree: 'BS in Biological Sciences and minor Chemistry',
+      from: '2019',
       to: '2024',
     },
     {
-      institution: 'University of Texas at San Antonio',
-      degree: 'PhD',
-      from: '2007',
-      to: '2012',
+      institution: 'Ceres High School',
+      degree: 'High School Diploma',
+      from: '2015',
+      to: '2019',
     },
   ],
   publications: [
