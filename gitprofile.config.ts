@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://aperez125.github.io/pdfs/aperezCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://aperez125.github.io/pdf/aperezCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR', 'Bioinformatics', 'Teaching'
