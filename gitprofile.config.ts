@@ -85,10 +85,10 @@ const CONFIG = {
   experiences: [
     {
       company: 'CSU Stanislaus',
-      position: 'Student Peer Mentor',
+      position: 'STEM Student Peer Mentor',
       from: 'August 2023',
       to: 'Present',
-      companyLink: 'https://www.csustan.edu',
+      companyLink: 'https://www.csustan.edu/aspire',
     },
     {
       company: 'Amazon',
