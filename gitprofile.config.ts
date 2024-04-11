@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://aperez125.github.io/pdf/aperezCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/aperez125/aperez125.github.io/raw/main/pdf/aperezCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Hands-on skills in Microbiology', 'Bioinformatics', '59 WPM', 'Biliterate'
