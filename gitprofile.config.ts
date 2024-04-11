@@ -58,7 +58,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'ana-perez1d',
-    twitter: ",
+    twitter: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
@@ -100,9 +100,9 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Dean's List',
-      body: '3.5 GPA or higher',
-      year: 'Fall 2019-Spring 2024',
+      name: '',
+      body: '',
+      year: '',
       link: '',
     },
   ],
@@ -112,12 +112,6 @@ const CONFIG = {
       degree: 'BS in Biological Sciences and minor Chemistry',
       from: '2019',
       to: '2024',
-    },
-    {
-      institution: 'Ceres High School',
-      degree: 'High School Diploma',
-      from: '2015',
-      to: '2019',
     },
   ],
   publications: [
