@@ -116,7 +116,7 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: ''
+      title: '',
       conferenceName: '',
       journalName: '',
       authors: '',
